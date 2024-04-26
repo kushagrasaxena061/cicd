@@ -23,4 +23,3 @@ jobs:
 
       - name: Run Build
         run: npm run build
-# dckr_pat_HZcTHynyni0aaO4GTEb83uI_gPE
